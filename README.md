@@ -51,22 +51,4 @@ Please adhere to our code of conduct and ensure that your contributions align wi
 - Mention any third-party code or resources that you used in this section.
 
 ## Contact Information
-If you have any questions or suggestions, feel free to reach out to me at your_email@example.com or connect with me on [LinkedIn](https://www.linkedin.com/in/nassreddine-elmammeri/).
-
-
-
-
-
-
-
-
-
-
-hi; 
-in this repository , i am glad to share with you my first face detection application using deep learning , Opencv and Streamlit share.
-i used DNN function in OPencv to create the app, after that i used streamlit to share it on the cloud.
-for that i created this URL: https://face-detection-app-3eixpe0e81b.streamlit.app/ if you want to try it!
-
-Enjoy!!
-
-Nas.
+If you have any questions or suggestions, feel free to reach out to me at elmammeri.nas@gmail.com or connect with me on [LinkedIn](https://www.linkedin.com/in/nassreddine-elmammeri/).
