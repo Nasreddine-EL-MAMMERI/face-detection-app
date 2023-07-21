@@ -3,7 +3,7 @@
 
 # Face Detection Application
 
-
+![Project Demo](https://github.com/Nasreddine-EL-MAMMERI/face-detection-app/blob/master/face_output%20(4).jpg)
 ![Project Demo](https://github.com/Nasreddine-EL-MAMMERI/face-detection-app/blob/master/face_output%20(3).jpg)
 
 ## Description
