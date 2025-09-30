@@ -5,7 +5,7 @@
 
 ![Project Demo](https://github.com/Nasreddine-EL-MAMMERI/face-detection-app/blob/master/face_output%20(4).jpg)
 ![Project Demo](https://github.com/Nasreddine-EL-MAMMERI/face-detection-app/blob/master/face_output%20(3).jpg)
-
+![Project Demo](https://github.com/Nasreddine-EL-MAMMERI/face-detection-app/blob/master/face_output.jpg)
 ## Description
 Welcome to my first face detection application using deep learning, OpenCV, and Streamlit. This application allows you to detect faces in images and provides an interactive interface for trying it out.
 
@@ -52,3 +52,4 @@ Please adhere to our code of conduct and ensure that your contributions align wi
 
 ## Contact Information
 If you have any questions or suggestions, feel free to reach out to me at elmammeri.nas@gmail.com or connect with me on [LinkedIn](https://www.linkedin.com/in/nassreddine-elmammeri/).
+
